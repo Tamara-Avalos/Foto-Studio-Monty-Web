@@ -6,9 +6,7 @@ El proyecto fue realizado para **Foto Studio Monty**, con el objetivo de crear u
 
 ## 🌐 Sitio web
 
-🔗 **[[Ver sitio web](https://fotostudiomonty.unaux.com/)](#)**
-
-> El enlace será agregado cuando el sitio sea publicado.
+🔗 **[[Ver sitio web](https://fotostudiomonty.unaux.com/)]**
 
 ## 📋 Características
 
